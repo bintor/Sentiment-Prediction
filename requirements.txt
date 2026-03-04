@@ -8,7 +8,7 @@ apify-client
 torch
 torchvision
 torchaudio
-
+python-dotenv
 transformers
 accelerate
 safetensors
