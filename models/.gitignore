@@ -1,0 +1,17 @@
+# secrets
+.env
+
+# python
+__pycache__/
+*.pyc
+
+# local db / artifacts
+*.db
+analysis_history.db
+
+# venv
+.venv/
+venv/
+
+# huggingface/torch caches (optional)
+.cache/
